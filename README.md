@@ -1,6 +1,6 @@
-# API-Automation
+# Test Automation
 
-## **OVverview:**
+## **Overview:**
 This Web Automation framework is developed using JAVA, Maven(build automation tool), Selenium, Cucumber, Log4j and other supporting dependencies .  
 
 
